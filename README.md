@@ -1,4 +1,2 @@
 # Tiktok-bot-scrape-hashtags
-Tiktok bot for scraping  hashtags / only 16 hashtags per call / only top tiktoks, no sorting(Tiktok doesn't have an API)
-
-Values are pasted in a Google sheet
+"This is a TikTok bot that scrapes up to 16 hashtags per call. It extracts only the top TikToks without any sorting, as TikTok doesn't offer an API. The results are then automatically pasted into a Google sheet."
