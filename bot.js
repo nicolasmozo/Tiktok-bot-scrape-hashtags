@@ -5,8 +5,8 @@ const TikTokScraper = new TTScraper();
 const { google } = require('googleapis');
 const { JWT } = require('google-auth-library');
 
-const private_key = # generated after creating an app in Google Cloud
-const client_email = # generated after creating an app in Google Cloud
+const private_key = //generated after creating an app in Google Cloud
+const client_email = //generated after creating an app in Google Cloud
 
 const scopes = ['https://www.googleapis.com/auth/spreadsheets'];
 
